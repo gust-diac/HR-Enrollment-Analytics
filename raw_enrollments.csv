@@ -1,0 +1,621 @@
+id,employee_id,department,course,enrolled_at,status
+1,1062,RH,Liderança,2025-07-14,em andamento
+2,1006,Comercial,Liderança,2025-02-24,em andamento
+3,1108,Financeiro,Liderança,2025-02-02,concluído
+4,1117,Comercial,Comunicação,2025-04-30,concluído
+5,1011,Logística,Liderança,2025-05-04,concluído
+6,1090,RH,Power BI,2025-07-13,concluído
+7,1142,RH,Excel Avancado,2025-04-04,concluído
+8,1080,RH,Power BI,2025-13-01,em andamento
+9,1109,Comercial,Excel Avançado,2025-06-24,concluído
+10,1108,Comercial,segurança da informação,2025-03-01,em andamento
+11,1137,Financeiro,Liderança,2025-07-25,concluído
+12,1129,TI,Inglês Corporativo,2025-04-09,desistiu
+13,1000,Comercial, Inglês Corporativo ,2025-06-19,
+14,1020,ti,Segurança da Informação,03/04/2025,concluído
+15,1054,Comercial,Comunicação,2025-06-16,concluído
+16,1063,RH,Power BI,2025-05-24,em andamento
+17,1008,Financeiro,Power BI,12/07/2025,em andamento
+18,1121,Operações,Liderança,2025-06-27,em andamento
+19,1025,TI,Segurança da Informação,2025-02-14,concluído
+20,1019,operacoes,Power BI,2025-05-20,em andamento
+21,1015,RH,Inglês Corporativo,2025-06-05,concluido
+22,1048,Financeiro,Inglês Corporativo,2025-06-23,em andamento
+23,1135,RH,Excel Avançado,2025-06-30,concluído
+24,1145,RH,Segurança da Informação,2025-04-02,concluído
+25,1080,RH,Excel Avançado,2025-04-22,concluído
+26,1018,Comercial,Inglês Corporativo,2025-07-10,CONCLUÍDO
+27,1135,TI,Inglês Corporativo,2025-05-24,CONCLUÍDO
+28,1072,Comercial,inglês corporativo,2025-02-28,concluído
+29,1011,TI,Segurança da Informação,2025-02-24,concluído
+30,1038,Comercial,Power BI,24/06/2025,em andamento
+31,1010,Financeiro,Seguranca da Informacao,2025-05-05,concluído
+32,1060,RH,Inglês Corporativo,2025-07-09,concluído
+33,1063,Financeiro,Power BI,2025-05-17,em andamento
+34,1058,RH, Excel Avançado ,2025-05-29,concluído
+35,1137,financeiro,Inglês Corporativo,2025-05-01,concluído
+36,1080,Operações,Inglês Corporativo,2025-07-03,EM ANDAMENTO
+37,1137,Logística, Excel Avançado ,23/05/2025,concluído
+38,1076,Comercial,Segurança da Informação,2025-07-10,em andamento
+39,1044,Comercial,Power BI,2025-05-19,concluído
+40,1113,Operações,Inglês Corporativo,2025-06-29,concluído
+41,1060,Logística,power bi,2025-07-13,concluído
+42,1147,RH,Comunicação,2025-02-19,em andamento
+43,1132,Operações,Liderança,2025-02-28,concluído
+44,1113,comercial,Power BI,2025-06-24,em andamento
+45,1070,Comercial,Inglês Corporativo,2025-06-02,em andamento
+46,1035,RH,Liderança,2025-04-27,concluído
+47,1107,operacoes,Liderança,2025-05-31,concluido
+48,1107,Comercial,Power BI,2025-05-02,desistiu
+49,1103,Logística,excel avancado,05/06/2025,concluido
+50,1109,RH,Liderança,2025-06-25,em andamento
+51,1107,Financeiro,Segurança da Informação,2025-05-09,
+52,1010,TI,Liderança,2025-05-01,concluído
+53,1065,Financeiro,power bi,2025-06-25,concluído
+54,1096,OPERAÇÕES,ingles corporativo,29/06/2025,concluído
+55,1010,Financeiro,Inglês Corporativo,2025-03-03,concluído
+56,1092,Logistica, Segurança da Informação ,2025-05-19,em andamento
+57,1123,Operações,power bi,2025-07-08,concluído
+58,1118,Comercial,Inglês Corporativo,2025-04-13,concluído
+59,1071,Comercial,Power BI,2025-03-27,concluído
+60,1121,Logística,Power BI,2025-05-16,concluído
+61,1121,Comercial,Comunicação,2025-04-04,em andamento
+62,1049,Financeiro,Comunicação,2025-04-20,concluído
+63,1072,TI,Segurança da Informação,2025-07-01,concluído
+64,1032,Logistica,Liderança,2025-02-12,concluído
+65,1122,TI,segurança da informação,2025-04-29,concluído
+66,1057,Comercial,Inglês Corporativo,2025-04-05,concluido
+67,1053,Logística,Segurança da Informação,2025-02-16,concluído
+68,1120,Financeiro,Liderança,2025-02-01,concluído
+69,1150,LOGÍSTICA,POWER BI,2025-04-01,em andamento
+70,1145,Financeiro,Inglês Corporativo,19/02/2025,concluído
+71,1110,Logística,comunicacao,2025-06-07,concluído
+72,1068,Comercial,LIDERANÇA,2025-07-01,em andamento
+73,1023,Operações,Liderança,2025-06-30, concluído 
+74,1140,TI,Comunicacao,2025-04-15,em andamento
+75,1127,Logística,Inglês Corporativo,17/05/2025,concluído
+76,,Logística,Excel Avançado,2025-07-29,concluído
+77,1029,OPERAÇÕES,Inglês Corporativo,2025-02-24,concluído
+78,1141,RH, Power BI ,2025-06-04,em andamento
+79,1068,TI,Segurança da Informação,2025-05-18,em andamento
+80,1116,FINANCEIRO,Excel Avançado,2025-04-27,concluido
+81,1098,Logística,Excel Avançado,2025-06-02,concluído
+82,1112,TI,Excel Avançado,2025-07-02,EM ANDAMENTO
+83,1020,financeiro,liderança,2025-04-09,concluído
+84,1073,RH,Comunicacao,2025-13-01,concluído
+85,1011,Financeiro,Power BI,2025-03-15,concluído
+86,1044,TI,Power BI,2025-06-25,EM ANDAMENTO
+87,1119,Financeiro,Inglês Corporativo,2025-04-07,em andamento
+88,1077,RH,Segurança da Informação,2025-05-20,em andamento
+89,1101,Financeiro,Inglês Corporativo,2025-07-30,concluido
+90,1048,Comercial,Comunicação,2025-03-31,concluído
+91,1093,Logística,Power BI,2025-04-21,concluído
+92,1128, Financeiro ,comunicação,2025-06-19, em andamento 
+93,1057,Logística,Liderança,2025-05-31,em andamento
+94,1067,Comercial,Power BI,2025-06-18,concluído
+95,1056,Logística,Excel Avançado,2025-07-09,concluído
+96,1024,RH,Comunicação,2025-02-10,concluído
+97,1039,Operações,Inglês Corporativo,2025-06-19,desistiu
+98,1060,Financeiro,Excel Avançado,2025-05-06, em andamento 
+99,1116,TI,Inglês Corporativo,2025-03-21,concluído
+100,1141,RH,Power BI,2025-03-05,concluído
+101,1037,RH,Excel Avançado,03/07/2025,concluído
+102,1082,T.I.,Comunicação,2025-05-03,em andamento
+103,1027,Operações,Comunicação,2025-05-26,concluído
+104,1122,Operações,Excel Avançado,2025-05-29,em andamento
+105,1149,Comercial,Liderança,,desistiu
+106,1141,Logistica,Liderança,2025-05-22,concluído
+107,1065,Financeiro,Excel Avançado,2025-02-25,concluído
+108,1150,Comercial,Comunicacao,2025-05-07,em andamento
+109,1090,TI,Segurança da Informação,2025-02-14, concluído 
+110,1143,Comercial, Comunicação ,2025-04-13,concluído
+111,1079,Financeiro,Liderança,2025-02-08,concluído
+112,1135,RH,Comunicação,2025-07-13,concluído
+113,1039,RH,Comunicação,2025-06-26,concluído
+114,1131,TI,Comunicação,2025-07-06,desistiu
+115,1001,RH,Inglês Corporativo,2025-03-29,concluído
+116,1033,Operações,Excel Avançado,2025-02-02, em andamento 
+117,1019,Financeiro,Liderança,2025-02-11,em andamento
+118,1117,logística,Segurança da Informação,2025-04-25,concluído
+119,1086,RH,Segurança da Informação,2025-02-21,em andamento
+120,1037,RH,Comunicação,2025-05-01,concluído
+121,1148,Operações,Comunicação,2025-07-11,desistiu
+122,1070,Comercial,Excel Avançado,,concluído
+123,1129,Operações,Segurança da Informação,31/02/2025,concluído
+124,1015,Operações,Segurança da Informação,2025-04-24,concluído
+125,1112,Comercial,Liderança,2025-02-11,concluido
+126,1085,TI,comunicacao,2025-07-24,concluído
+127,1036,Financeiro, Comunicação ,2025-03-11,em andamento
+128,1032,Logística,Comunicação,2025-06-24,em andamento
+129,1054,Financeiro,inglês corporativo,04/05/2025,concluído
+130,1134,ti,power bi,2025-06-10,em andamento
+131,1093,Logística,Comunicação,2025-03-15,desistiu
+132,1120,RH,Inglês Corporativo,2025-04-01,em andamento
+133,1051,Comercial,Excel Avançado,2025-06-09,em andamento
+134,1041,Financeiro, Power BI ,2025-06-13,em andamento
+135,1095,RH, Excel Avançado ,2025-02-07,concluído
+136,1120,Logistica,Inglês Corporativo,2025-03-10,concluído
+137,1135,Operações,Power BI,2025-03-11,concluído
+138,1127,Comercial,Power BI,2025-07-10,desistiu
+139,1106,RH,Segurança da Informação,2025-02-01,concluído
+140,1120, TI ,Inglês Corporativo,2025-06-10,concluído
+141,1085,RH,Comunicação,2025-07-19,concluido
+142,1117,TI,Inglês Corporativo,2025-03-19,concluído
+143,1048,Financeiro,Inglês Corporativo,2025-06-20,concluído
+144,1098,Financeiro,Ingles Corporativo,2025-05-14,concluido
+145,1046,Comercial,Inglês Corporativo,2025-02-21,concluído
+146,1114,ti,Excel Avançado,2025-05-21,concluído
+147,1040,T.I.,Excel Avançado,2025-07-14,em andamento
+148,1145,TI,Excel Avançado,2025-07-16,concluído
+149,1071,rh,Segurança da Informação,2025-06-16,em andamento
+150,1073,Logistica,Power BI,2025-04-08,concluido
+151,1081,Logística,INGLÊS CORPORATIVO,2025-02-23,em andamento
+152,1051,RH,Inglês Corporativo,2025-05-04,concluído
+153,1016,Financeiro,liderança,2025-06-22,em andamento
+154,1115,Operações,Power BI,2025-03-05,em andamento
+155,1014,TI,segurança da informação,2025-03-06,concluído
+156,1070,RH,Power BI,2025-04-06,concluído
+157,1086,Comercial,Comunicação,2025-06-29,concluído
+158,1106,Comercial,Inglês Corporativo,2025-04-09,em andamento
+159,1015,RH,Power BI,2025-07-26,concluído
+160,1102,RH,Liderança,2025-04-23,concluído
+161,1074,Operacoes,Comunicação,2025-05-27,concluido
+162,1127,Financeiro,Power BI,2025-03-13,em andamento
+163,1120,Financeiro,Inglês Corporativo,02/05/2025,em andamento
+164,1145,Comercial,Liderança,2025-05-15,concluído
+165,1030,RH,Inglês Corporativo,2025-04-13,concluído
+166,1010,T.I.,Power BI,2025-03-23,em andamento
+167,1081,RH,seguranca da informacao,2025-06-12,concluído
+168,1004,Financeiro,comunicação,2025-06-06,em andamento
+169,1148,Comercial,Comunicação,2025-07-03,em andamento
+170,1008,comercial,Power BI,2025-05-09,em andamento
+171,1120,Logística,Ingles Corporativo,2025-03-25,em andamento
+172,1117,Comercial, Power BI ,2025-06-15,concluído
+173,1076,Financeiro,Inglês Corporativo,2025-06-23,em andamento
+174,1139,Operacoes,inglês corporativo,2025-04-12,concluído
+175,1122,RH,Power BI,2025-04-30,em andamento
+176,1135,RH,Liderança,2025-07-01,em andamento
+177,1040,Operações,Power BI,08/03/2025,em andamento
+178,1022,Logística,LIDERANÇA,2025-04-15,CONCLUÍDO
+179,1126, RH ,Segurança da Informação,2025-02-10,concluído
+180,1139,Comercial, Power BI ,2025-04-27,em andamento
+181,1047,TI,Comunicacao,2025-03-14,concluído
+182,1024,RH,Liderança,2025-06-12,concluído
+183,1146,TI,Power BI,2025-04-10,concluído
+184,1079,Logística,Power BI,2025-06-09,concluído
+185,1095,Operações,Power BI,2025-03-07,EM ANDAMENTO
+186,1114,Comercial,SEGURANÇA DA INFORMAÇÃO,2025-07-03,desistiu
+187,1133,Operações,Segurança da Informação,2025-06-27,desistiu
+188,1116,Comercial,Liderança,2025-02-15,concluído
+189,1011,Operações,Liderança,2025-02-01,concluído
+190,1107,Financeiro,comunicacao,2025-05-16,em andamento
+191,1045,Comercial,Inglês Corporativo,2025-03-07,concluído
+192,1058,RH,Excel Avancado,2025-06-20,concluído
+193,1004,RH,Comunicação,2025-07-08,concluído
+194,1112,RH,Inglês Corporativo,2025-02-13,concluído
+195,1082,RH,Inglês Corporativo,2025-06-28,em andamento
+196,1044,Logística,Segurança da Informação,2025-06-23,concluido
+197,1047,Comercial,lideranca,2025-05-18,CONCLUÍDO
+198,1034,Operações,Excel Avançado,2025-05-17, concluído 
+199,1010,T.I., Power BI ,21/03/2025,em andamento
+200,,rh,Comunicação,2025-04-19,em andamento
+201,1097,Operações,Liderança,2025-04-03,concluído
+202,1052,Financeiro,Excel Avançado,2025-06-01,concluído
+203,1039,RH, Comunicação ,2025-06-30,concluído
+204,1125,Operações,Segurança da Informação,2025-04-07,concluído
+205,1134,TI,Liderança,2025-06-19,concluído
+206,1002,RH,Seguranca da Informacao,2025-07-12,desistiu
+207,1003,TI,Comunicação,05/02/2025,concluído
+208,1038,RH,Liderança,2025-03-18,concluído
+209,1057,Financeiro,Liderança,2025-05-15,concluído
+210,,RH,excel avançado,02/06/2025,concluído
+211,1145,Operações,Comunicação,2025-03-31,concluido
+212,1036,logística,Liderança,22/04/2025,desistiu
+213,1035,Logística,Liderança,2025-06-19,concluído
+214,1101,Financeiro,Inglês Corporativo,2025-02-20,em andamento
+215,1097,TI,Power BI,2025-05-08,concluído
+216,1092,T.I.,Inglês Corporativo,2025-07-13,em andamento
+217,1142,Comercial,Segurança da Informação,2025-02-23,concluído
+218,,Operações,Segurança da Informação,2025-04-25,EM ANDAMENTO
+219,1077,Financeiro,Inglês Corporativo,2025-07-26,em andamento
+220,1126,Comercial,Liderança,2025-02-20,concluído
+221,1112,Financeiro,Inglês Corporativo,2025-07-09,desistiu
+222,1101,Financeiro,Inglês Corporativo,2025-07-28,EM ANDAMENTO
+223,1051,COMERCIAL,Comunicação,2025-05-12,em andamento
+224,1017,Operações,Comunicação,2025-03-26,concluído
+225,1122,Comercial,Inglês Corporativo,2025-05-20,em andamento
+226,1027,RH,Comunicação,2025-06-18,desistiu
+227,1110,T.I.,Segurança da Informação,2025-05-14,em andamento
+228,1118,Logística,Excel Avançado,2025-06-28,concluido
+229,1036,Financeiro,Inglês Corporativo,2025-02-22,concluído
+230,1017,Financeiro,COMUNICAÇÃO,2025-05-24,concluído
+231,1143,OPERAÇÕES,Comunicação,2025-06-13,concluído
+232,1115,Comercial,Power BI,2025-02-08,
+233,1026,Comercial,comunicacao,2025-07-31,em andamento
+234,1100,Comercial,Comunicação,2025-07-14,em andamento
+235,1034,Financeiro,Power BI,2025-04-18,concluído
+236,1108,RH,Liderança,2025-05-19,concluído
+237,1013,Financeiro,Comunicação,2025-03-20,em andamento
+238,1113,Operações,Inglês Corporativo,2025-07-26,concluído
+239,1126,Comercial,Inglês Corporativo,2025-04-15,concluído
+240,1055,Operações,Excel Avançado,2025-02-11,concluído
+241,1030,RH,Comunicação,2025-05-01,concluido
+242,1052,TI,Comunicação,2025-07-08,concluído
+243,1024,RH,COMUNICAÇÃO,2025-06-27,CONCLUÍDO
+244,1100,Operações,Excel Avançado,2025-03-10,em andamento
+245,1094, Operações ,Liderança,2025-02-24,concluído
+246,1136,Operações, Inglês Corporativo ,2025-07-29,concluído
+247,1124,financeiro,Power BI,2025-06-21,em andamento
+248,1033,Logística,Inglês Corporativo,2025-02-01,concluído
+249,1013,Operações,Excel Avançado,2025-05-07,concluído
+250,1057,Comercial,Comunicação,2025-02-01,
+251,1033,Operações,INGLÊS CORPORATIVO,2025-03-03,concluído
+252,1034,LOGÍSTICA,Comunicação,2025-05-09,desistiu
+253,1038,Operações,Excel Avançado,2025-05-01,concluído
+254,1109,Financeiro,Segurança da Informação,2025-03-04,concluído
+255,1006,LOGÍSTICA,Liderança,2025-07-06,em andamento
+256,1061,Operações, Excel Avançado ,2025-02-14,desistiu
+257,1107,Financeiro,Excel Avançado,2025-03-06,em andamento
+258,1015,Operações,Liderança,2025-02-04,em andamento
+259,1039,Financeiro,Segurança da Informação,2025-02-22,CONCLUÍDO
+260,1016,Financeiro,excel avançado,2025-07-01,concluído
+261,1044,T.I.,Inglês Corporativo,2025-05-28,concluído
+262,1068,logística,Excel Avançado,2025-04-08,em andamento
+263,1130,Financeiro,Inglês Corporativo,2025-06-28,concluído
+264,1130,T.I.,Inglês Corporativo,2025-06-27,concluído
+265,1009,Comercial,Comunicação,2025-03-11,concluído
+266,1013,RH, Liderança ,2025-02-20,concluído
+267,,RH,Inglês Corporativo,,desistiu
+268,1139,RH,Inglês Corporativo,2025-06-07,concluído
+269,1000,Logística,Seguranca da Informacao,2025-07-28,concluído
+270,1036,Logística,Liderança,2025-06-06,concluido
+271,1148,TI,Liderança,2025-05-07,desistiu
+272,1080,Operações,Power BI,2025-03-06,concluído
+273,1027,RH,Segurança da Informação,2025-03-24,concluído
+274,1030,T.I.,Inglês Corporativo,2025-03-26,desistiu
+275,1012,Logística,lideranca,2025-04-05,concluído
+276,1035,T.I.,Liderança,2025-06-21,concluído
+277,1150,financeiro,Comunicação,2025-07-12,concluído
+278,1084,T.I.,Comunicação,2025-03-05,concluido
+279,1090, RH ,Segurança da Informação,2025-02-08,concluído
+280,1140,Operações,comunicacao,2025-07-16,concluído
+281,1004,Operações,ingles corporativo,2025-04-05,em andamento
+282,1081,Comercial,Liderança,2025-04-24,concluído
+283,1025,RH,Power BI,2025-06-30,concluído
+284,1044,RH,Comunicação,2025-05-11,concluído
+285,1048,Operações,Power BI,2025-06-26,concluído
+286,,Comercial,Excel Avançado,2025-02-06, concluído 
+287,1028,comercial,Inglês Corporativo,2025-07-01,em andamento
+288,1111, Logística ,Segurança da Informação,2025-03-07,em andamento
+289,1096,Financeiro,Comunicacao,2025-03-30,concluído
+290,1056,Logística,Excel Avançado,26/06/2025,concluído
+291,1022,Logística,Inglês Corporativo,2025-04-23,concluído
+292,1000,TI,Liderança,,em andamento
+293,1147,Logística,Excel Avançado,2025-05-08,em andamento
+294,1087,RH,Inglês Corporativo,2025-04-23,em andamento
+295,1110,Logística,Inglês Corporativo,2025-07-08,concluído
+296,1138,Financeiro,Segurança da Informação,2025-03-21,concluído
+297,1109,TI,Power BI,2025-06-06,concluído
+298,1029,Financeiro,Segurança da Informação,2025-04-16,concluído
+299,1114,TI,Power BI,2025-05-06,concluído
+300,1138,operacoes,Lideranca,2025-07-21,concluido
+301,1020,operações,Power BI,2025-06-27,em andamento
+302,1054,RH,Comunicação,2025-05-26,em andamento
+303,1017,TI,Excel Avançado,2025-07-03,concluído
+304,1028,Operações,excel avancado,2025-07-10,desistiu
+305,1088,Operações,Excel Avançado,2025-02-26,desistiu
+306,1102,TI,Excel Avançado,2025-05-15, em andamento 
+307,1025,RH,Inglês Corporativo,2025-04-19,em andamento
+308,1113,RH,Segurança da Informação,2025-05-18,em andamento
+309,1034,comercial,Excel Avançado,2025-02-17,CONCLUÍDO
+310,1118,Comercial,Liderança,2025-05-04,concluído
+311,1141,Financeiro,Comunicação,2025-03-18,concluído
+312,1146,RH,Segurança da Informação,2025-02-08,concluído
+313,1044,COMERCIAL,Comunicação,25/07/2025,concluído
+314,1117,Financeiro,Segurança da Informação,2025-05-20,em andamento
+315,1095,Comercial,Liderança,2025-06-11,concluído
+316,1066,Logística,Segurança da Informação,2025-04-12,concluído
+317,1103,Logística,Inglês Corporativo,2025-02-15,concluído
+318,1149,LOGÍSTICA,Comunicação,2025-05-19,concluído
+319,1043,LOGÍSTICA,Inglês Corporativo,2025-07-22,em andamento
+320,1085,Logística,Inglês Corporativo,2025-06-24,concluído
+321,1120,TI,Power BI,2025-06-30,concluído
+322,1013,RH,Power BI,2025-07-25,em andamento
+323,1045,Financeiro,Inglês Corporativo,2025-03-19,
+324,1022,RH,Liderança,2025-03-16,em andamento
+325,1003,Financeiro,Comunicação,2025-02-10,concluído
+326,1033,TI,Inglês Corporativo,2025-03-30,concluído
+327,1034,Financeiro,Liderança,2025-06-14,concluído
+328,1005,Comercial,Comunicação,2025-03-30,concluído
+329,1012,Logística,Liderança,2025-06-17,concluído
+330,1039,RH,Excel Avançado,2025-03-04,concluído
+331,1107,TI,Segurança da Informação,2025-04-11,concluído
+332,1091,Logística,Power BI,2025-04-09,em andamento
+333,,Logística,power bi,2025-06-04,desistiu
+334,1065,Logística,Excel Avançado,2025-02-20,concluído
+335,1092,Logística,EXCEL AVANÇADO,2025-03-17,concluído
+336,1068,Logística, Liderança ,2025-04-26,concluído
+337,1107,LOGÍSTICA,Excel Avançado,2025-05-10,CONCLUÍDO
+338,1112,RH,COMUNICAÇÃO,2025-07-02,desistiu
+339,1105,Operações,Comunicação,2025-06-04,concluído
+340,1086,Comercial,Comunicação,2025-06-28,concluído
+341,1038,comercial,LIDERANÇA,2025-04-30,concluído
+342,1084,Financeiro,Power BI,2025-02-20,em andamento
+343,1127,Operações,Liderança,2025-05-25,concluído
+344,1077,Comercial,Excel Avancado,21/06/2025, em andamento 
+345,1121,Logística,Comunicação,2025-04-26,concluído
+346,1074,Comercial,Power BI,2025-04-29,concluido
+347,1030,Operações,Excel Avançado,2025-02-28,concluído
+348,1150,TI,Liderança,2025-02-12,em andamento
+349,1149,OPERAÇÕES,Power BI,2025-02-13,concluído
+350,1129,Operações,Ingles Corporativo,2025-07-19,concluído
+351,1131,financeiro,Power BI,2025-03-07,em andamento
+352,1033,Logística,Comunicação,2025-04-16,em andamento
+353,1149,Comercial,lideranca,2025-03-02,em andamento
+354,1014,RH, Power BI ,28/02/2025,concluído
+355,1115,TI,Segurança da Informação,2025-03-25,concluído
+356,1073,Logística,Comunicação,2025-06-11,em andamento
+357,1051,Comercial,Segurança da Informação,22/06/2025,concluído
+358,1075,Operações,Excel Avançado,2025-03-23,concluido
+359,1041,comercial,Inglês Corporativo,2025-05-21,concluído
+360,1125,Comercial,Power BI,2025-07-11,concluído
+361,1103, TI ,Segurança da Informação,2025-06-10,concluído
+362,1002,TI,Excel Avançado,2025-06-24,DESISTIU
+363,1029,Operações,Seguranca da Informacao,2025-04-24, concluído 
+364,1049,Financeiro,Segurança da Informação,05/06/2025,concluido
+365,1054,Logística,comunicação,2025-02-17,em andamento
+366,1084,T.I., Segurança da Informação ,2025-07-26,concluído
+367,1110,Financeiro,Comunicação,2025-05-16,em andamento
+368,1091,Comercial,Inglês Corporativo,30/06/2025,concluído
+369,1007,Operações,Segurança da Informação,2025-05-24,em andamento
+370,1095,TI,Liderança,2025-07-13,concluído
+371,1088,RH,Power BI,2025-02-22,em andamento
+372,1145,ti,Comunicação,2025-04-06,em andamento
+373,1084,Financeiro, Excel Avançado ,2025-02-26,concluído
+374,1078,Logística,Power BI,2025-06-05,concluido
+375,1111,FINANCEIRO,Liderança,2025-04-05,concluido
+376,1020,FINANCEIRO,Comunicação,2025-04-20,concluído
+377,1007,Comercial,Inglês Corporativo,2025-02-20,concluido
+378,1093,Operações,Segurança da Informação,2025-06-19,concluído
+379,,rh,Power BI,2025-05-13,em andamento
+380,1123,Financeiro,Inglês Corporativo,2025-06-25,concluído
+381,1092,Operações,Comunicação,2025-07-22,concluído
+382,1070,Logística,Liderança,2025-07-31,concluído
+383,1064,OPERAÇÕES,Liderança,2025-07-18, concluído 
+384,1112,RH,Power BI,05/07/2025,concluído
+385,1058,operações,Segurança da Informação,2025-07-05,em andamento
+386,1146,Comercial,Excel Avançado,17/05/2025,CONCLUÍDO
+387,1144,Logística,Liderança,2025-03-19,CONCLUÍDO
+388,1105,Comercial,Segurança da Informação,2025-06-01,concluído
+389,1017,RH,Segurança da Informação,2025-07-26,concluído
+390,1009,Comercial,Segurança da Informação,2025-03-11,em andamento
+391,1110,Comercial,Liderança,2025-02-01,em andamento
+392,1147,TI,Segurança da Informação,2025-05-09,concluído
+393,1001,Comercial,Comunicacao,21/03/2025,em andamento
+394,1149,Financeiro,Ingles Corporativo,2025-05-04,desistiu
+395,1123,RH,Inglês Corporativo,2025-03-25,concluido
+396,1030,Logística,Segurança da Informação,2025-05-13,concluído
+397,1013,RH,Segurança da Informação,2025-04-28,concluido
+398,1009,Logística,Inglês Corporativo,2025-02-17,desistiu
+399,1044,Logística,comunicacao,03/07/2025,
+400,1130,Comercial,Comunicação,2025-04-15,concluído
+401,1090,Logística,Comunicação,,em andamento
+402,1143,Comercial,Power BI,2025-02-24,concluído
+403,1104,Comercial, Excel Avançado ,2025-05-15,concluído
+404,1113,Operações,Comunicação,2025-06-18,concluido
+405,1066,TI,Inglês Corporativo,2025-07-01,concluido
+406,1073,TI,Inglês Corporativo,2025-02-03,em andamento
+407,1048,Operações,Power BI,2025-06-27,CONCLUÍDO
+408,1027,TI,Seguranca da Informacao,2025-04-05,desistiu
+409,1147,Financeiro,Power BI,2025-05-07,em andamento
+410,1122,Comercial,Excel Avançado,05/03/2025,concluído
+411,,Logística,Inglês Corporativo,2025-05-29,concluído
+412,1087,Financeiro,Inglês Corporativo,2025-04-09,em andamento
+413,1033,Comercial,LIDERANÇA,2025-05-14,concluido
+414,1121,T.I.,Inglês Corporativo,2025-03-10,em andamento
+415,1012,Operações,Comunicação,2025-04-18,concluido
+416,1142,Financeiro,Power BI,2025-04-27,concluido
+417,1072,Financeiro,Segurança da Informação,2025-07-17,em andamento
+418,1086,Operações,Inglês Corporativo,2025-07-12,concluído
+419,1101, Financeiro ,Power BI,2025-04-23,em andamento
+420,1064,Logística,Excel Avançado,2025-02-06,concluído
+421,,Operações,Power BI,2025-06-02,concluído
+422,1072,Operações,Comunicação,2025-05-11,concluído
+423,1138,Financeiro,Segurança da Informação,2025-04-25,em andamento
+424,1136,Financeiro,Inglês Corporativo,2025-07-13,concluído
+425,,RH,Lideranca,2025-03-12,concluído
+426,1074,Comercial,Inglês Corporativo,18/04/2025,
+427,1099,Operações, Segurança da Informação ,2025-06-24,concluído
+428,1068,Operações,Comunicação,2025-04-14,concluído
+429,1048,Financeiro,Excel Avançado,2025-05-27,em andamento
+430,1059,T.I.,Lideranca,2025-03-05,concluído
+431,1037,TI,inglês corporativo,2025-07-29,concluído
+432,1098,Operações,Excel Avançado,2025-03-04,concluído
+433,1079,Financeiro,Inglês Corporativo,2025-03-26,em andamento
+434,1055,TI,Inglês Corporativo,2025-04-18,
+435,,TI,Excel Avançado,2025-05-13,concluído
+436,1015,TI,Power BI,2025-06-08,concluído
+437,1112,Logística,Ingles Corporativo,2025-06-23,concluído
+438,1125,RH,ingles corporativo,2025-07-31,concluído
+439,1115,financeiro,Segurança da Informação,2025-06-22,concluído
+440,1093,Comercial,Segurança da Informação,2025-03-20,EM ANDAMENTO
+441,1104,Logística,Power BI,2025-06-22,concluído
+442,1025,TI,Inglês Corporativo,2025-02-09,desistiu
+443,1125,TI,Segurança da Informação,19/02/2025,em andamento
+444,1019,rh,Power BI,2025-02-11,concluído
+445,1045,Comercial,Segurança da Informação,2025-07-19,concluído
+446,1026,RH,Power BI,2025-05-29,em andamento
+447,1080, Comercial , Liderança ,2025-07-04,em andamento
+448,1096, Comercial ,Liderança,2025-07-06,em andamento
+449,1132, RH ,Power BI,2025-02-09,
+450,1070,Comercial,Excel Avançado,22/04/2025,desistiu
+451,1149,RH,segurança da informação,2025-03-12,concluído
+452,1147,TI, Excel Avançado ,2025-04-25,desistiu
+453,1030,RH,Comunicação,2025-05-01,concluído
+454,1144,RH,Comunicacao,2025-04-20,concluído
+455,1110,Financeiro,Segurança da Informação,2025-07-03,concluído
+456,1128,Operações,Power BI,2025-06-21,concluído
+457,1134,RH,Segurança da Informação,2025-07-17,em andamento
+458,1048,Financeiro,Inglês Corporativo,2025-07-22,concluído
+459,1059,RH,Excel Avançado,2025-05-25,concluído
+460,1073, TI ,Comunicação,2025-07-09,concluído
+461,1140,Operações,Comunicação,2025-03-25,concluído
+462,1069,ti,Comunicação,2025-04-07,concluído
+463,1098,rh,Segurança da Informação,28/02/2025,concluido
+464,1143,Logística,Liderança,2025-03-20,em andamento
+465,1090,Logística,Excel Avançado,13/03/2025,em andamento
+466,1007,COMERCIAL,Excel Avançado,2025-05-11,em andamento
+467,1058,Operações,Liderança,2025-06-14, concluído 
+468,1051,RH,Power BI,2025-03-25,em andamento
+469,1142,comercial,Ingles Corporativo,2025-06-25,concluído
+470,1070,RH,Segurança da Informação,2025-05-17,concluído
+471,1059,RH,Segurança da Informação,2025-07-06,em andamento
+472,1125,Operações,Excel Avancado,2025-07-17,concluído
+473,1052,T.I.,Comunicação,2025-03-29,em andamento
+474,1010,Comercial,Comunicação,2025-05-29,concluído
+475,1009,Comercial,Segurança da Informação,2025-06-18,CONCLUÍDO
+476,1012,RH,Inglês Corporativo,2025-02-11,concluído
+477,1132,RH,Excel Avançado,2025-05-20,concluído
+478,1034,Operações,Comunicacao,2025-06-30,concluído
+479,1041,Logística,Excel Avançado,2025-02-24,em andamento
+480,1040,Operações,COMUNICAÇÃO,2025-05-10,concluido
+481,1107,Financeiro,Power BI,2025-03-10,em andamento
+482,,Financeiro,Excel Avançado,2025-03-06,em andamento
+483,1121,Operações,Segurança da Informação,2025-06-07,desistiu
+484,1012,RH,Excel Avançado,2025-07-11,concluído
+485,1012,TI,Comunicação,2025-07-05,desistiu
+486,1148,financeiro,Lideranca,2025-06-24,concluído
+487,1070,Financeiro,Excel Avançado,,concluído
+488,1073,Operações,Segurança da Informação,2025-07-12,em andamento
+489,1127,operacoes,Excel Avançado,2025-03-06,concluído
+490,1053,Comercial,Comunicação,2025-07-11,concluído
+491,1017,Financeiro,Inglês Corporativo,2025-07-14,concluído
+492,,RH,Comunicação,2025-06-26,em andamento
+493,1137,Financeiro,Segurança da Informação,2025-03-12, concluído 
+494,,Comercial,Power BI,2025-04-22,concluído
+495,1136,RH,Inglês Corporativo,2025-02-08,desistiu
+496,1022, Operações ,Inglês Corporativo,2025-04-22,concluído
+497,1023,Operações,ingles corporativo,2025-05-07,em andamento
+498,1025,Comercial,comunicação,2025-04-21,concluído
+499,1022,Financeiro,Comunicação,2025-02-02,em andamento
+500,1053,Financeiro,Liderança,2025-06-28,em andamento
+501,1003,Comercial,Inglês Corporativo,2025-04-11,em andamento
+502,1043,ti,Comunicação,2025-07-31,concluído
+503,1045,Logística,Inglês Corporativo,10/05/2025,em andamento
+504,1136,TI,Comunicação,2025-03-23,concluído
+505,1119,Operações,Inglês Corporativo,2025-05-28,desistiu
+506,1083,Operações, Liderança ,2025-07-30,concluído
+507,1026,operações,Segurança da Informação,2025-05-01,concluído
+508,1140,RH,Liderança,2025-07-02,concluido
+509,1060,RH,Segurança da Informação,2025-05-23,desistiu
+510,1045,financeiro,Liderança,2025-04-25,desistiu
+511,1035,comercial,Inglês Corporativo,2025-07-16,concluído
+512,1081,Financeiro, Comunicação ,2025-06-28,concluido
+513,1130, Operações ,Comunicação,2025-02-23,em andamento
+514,1007,RH,Liderança,2025-05-03,concluído
+515,1035,RH,INGLÊS CORPORATIVO,2025-06-20,CONCLUÍDO
+516,1036,Logistica,Comunicacao,07/03/2025,concluído
+517,1046,Operações,Power BI,2025-07-29,em andamento
+518,1060,Logística,excel avancado,05/07/2025,em andamento
+519,1123,Logística,Liderança,2025-06-04, em andamento 
+520,1120,Logística,Segurança da Informação,2025-06-14,concluído
+521,1136,TI,Inglês Corporativo,2025-04-21,concluído
+522,1077,Logística,Segurança da Informação,2025-02-10,em andamento
+523,1073,Operações,Segurança da Informação,2025-04-16,concluído
+524,1044,Comercial,Comunicação,07/04/2025, concluído 
+525,1087,TI,Liderança,2025-03-19,em andamento
+526,1042,RH,Excel Avançado,2025-04-02,concluído
+527,1136,RH,segurança da informação,2025-05-30,em andamento
+528,1080,Comercial,Liderança,2025-04-15,em andamento
+529,1068,TI,Segurança da Informação,2025-07-17,concluído
+530,1046,Financeiro,Excel Avançado,2025-06-14,concluído
+531,1072,Financeiro,Segurança da Informação,2025-07-26,concluído
+532,1030,TI,Excel Avançado,2025-03-28,DESISTIU
+533,1019,Logística,Comunicação,2025-04-06,em andamento
+534,1070,TI,Excel Avançado,2025-04-24,concluído
+535,1125,T.I., Excel Avançado ,2025-03-24,concluído
+536,1064,Operações,Inglês Corporativo,27/02/2025,concluido
+537,1131,Logistica,Segurança da Informação,2025-04-26,em andamento
+538,1123, TI ,comunicação,2025-05-10,concluído
+539,1020,Operações,EXCEL AVANÇADO,2025-05-05,concluído
+540,1091,Operações,Power BI,2025-04-18,concluído
+541,1138,Logística,Excel Avançado,2025-07-02,em andamento
+542,1030,rh,Segurança da Informação,2025-04-28,em andamento
+543,1004,operacoes,Comunicação,19/02/2025,concluído
+544,1043,Comercial,Segurança da Informação,2025-04-20,concluído
+545,1102,Financeiro,Power BI,2025-03-24,em andamento
+546,1070,RH,Liderança,2025-07-02,concluído
+547,1096,RH,Excel Avançado,29/06/2025,concluído
+548,1121,Logística,Liderança,2025-07-02,concluído
+549,1046,Logística,Excel Avançado,2025-03-17,concluído
+550,1024,Comercial,Liderança,2025-03-22,em andamento
+551,1028,RH,Power BI,2025-07-19,em andamento
+552,1053,Operações,Comunicação,12/02/2025,em andamento
+553,1124,Comercial,Inglês Corporativo,2025-06-18,em andamento
+554,1028,Financeiro,Power BI,2025-07-24,em andamento
+555,1037,RH,Comunicação,2025-06-30,concluído
+556,1032,TI,Power BI,2025-05-03,em andamento
+557,1043,COMERCIAL,Power BI,2025-03-29,em andamento
+558,1063,RH,Excel Avançado,2025-05-30,desistiu
+559,1129,TI,Power BI,12/02/2025,concluído
+560,1055,RH,Comunicação,2025-02-04,concluído
+561,1149,TI,Inglês Corporativo,2025-07-31,em andamento
+562,1018, Operações ,Inglês Corporativo,2025-07-31,concluído
+563,1020,comercial,Liderança,2025-07-07,concluído
+564,1143,Logística,Inglês Corporativo,09/07/2025,concluído
+565,1148,Logística,Inglês Corporativo,2025-03-02,concluído
+566,1088,Operações,Segurança da Informação,2025-05-20,concluído
+567,1094,logística, Liderança ,2025-06-17,em andamento
+568,1037,Operações,Comunicação,2025-02-20,concluído
+569,1005,Financeiro,Comunicação,2025-03-06,concluido
+570,1083,Operações,Inglês Corporativo,2025-06-29,em andamento
+571,1123,financeiro,Power BI,2025-04-20,concluído
+572,1044,Logística,Excel Avançado,2025-03-14,concluído
+573,1094,RH,Inglês Corporativo,2025-04-23,CONCLUÍDO
+574,1006,OPERAÇÕES,Comunicação,2025-03-14,concluído
+575,1121,financeiro,Liderança,2025-06-10,desistiu
+576,1035,Logística,Power BI,2025-03-01,em andamento
+577,1049,Comercial,Excel Avançado,2025-02-24,concluído
+578,1131,Operações, Excel Avançado ,2025-05-26,desistiu
+579,1094,Operações,liderança,2025-05-13,concluído
+580,1106,Operações,Liderança,2025-03-28,em andamento
+581,1101,Financeiro,Inglês Corporativo,2025-07-30,concluido
+582,1145,TI,Excel Avançado,2025-07-16,concluído
+583,1035,Logística,Liderança,2025-06-19,concluído
+584,1141,Financeiro,Comunicação,2025-03-18,concluído
+585,1070,Financeiro,Excel Avançado,,concluído
+586,1123, TI ,comunicação,2025-05-10,concluído
+587,1077,Comercial,Excel Avancado,21/06/2025, em andamento 
+588,1120,Financeiro,Liderança,2025-02-01,concluído
+589,1058,operações,Segurança da Informação,2025-07-05,em andamento
+590,1093,Logística,Power BI,2025-04-21,concluído
+591,1142,RH,Excel Avancado,2025-04-04,concluído
+592,1064,Logística,Excel Avançado,2025-02-06,concluído
+593,1140,Operações,comunicacao,2025-07-16,concluído
+594,,RH,Lideranca,2025-03-12,concluído
+595,1139,Comercial, Power BI ,2025-04-27,em andamento
+596,1083,Operações,Inglês Corporativo,2025-06-29,em andamento
+597,1010,Comercial,Comunicação,2025-05-29,concluído
+598,1145,TI,Excel Avançado,2025-07-16,concluído
+599,1085,RH,Comunicação,2025-07-19,concluido
+600,1134,TI,Liderança,2025-06-19,concluído
+601,1045,Comercial,Inglês Corporativo,2025-03-07,concluído
+602,1110,Comercial,Liderança,2025-02-01,em andamento
+603,1109,TI,Power BI,2025-06-06,concluído
+604,1037,Operações,Comunicação,2025-02-20,concluído
+605,1045,Logística,Inglês Corporativo,10/05/2025,em andamento
+606,1113,comercial,Power BI,2025-06-24,em andamento
+607,1118,Comercial,Liderança,2025-05-04,concluído
+608,1134,TI,Liderança,2025-06-19,concluído
+609,1146,RH,Segurança da Informação,2025-02-08,concluído
+610,1083,Operações, Liderança ,2025-07-30,concluído
+611,1094,RH,Inglês Corporativo,2025-04-23,CONCLUÍDO
+612,1009,Comercial,Segurança da Informação,2025-06-18,CONCLUÍDO
+613,1017,Financeiro,COMUNICAÇÃO,2025-05-24,concluído
+614,1072,Comercial,inglês corporativo,2025-02-28,concluído
+615,1108,Financeiro,Liderança,2025-02-02,concluído
+616,1106,Comercial,Inglês Corporativo,2025-04-09,em andamento
+617,1000,Logística,Seguranca da Informacao,2025-07-28,concluído
+618,1113,RH,Segurança da Informação,2025-05-18,em andamento
+619,1012,RH,Excel Avançado,2025-07-11,concluído
+620,1032,Logística,Comunicação,2025-06-24,em andamento

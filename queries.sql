@@ -3,8 +3,8 @@ SELECT course AS curso, COUNT(*) AS inscricoes
 FROM enrollments GROUP BY course ORDER BY inscricoes DESC;
 
 -- name: conclusao_por_departamento
-SELECT department AS departamento,
-       COUNT(*) AS total,
+SELECT department AS departamento, COUNT(*) AS total,
+       SUM(status = 'concluído') AS concluidos, SUM(status = 'desistiu') AS desistencias,
        ROUND(100.0 * SUM(status = 'concluído') / COUNT(*), 1) AS pct_concluido
 FROM enrollments GROUP BY department ORDER BY pct_concluido DESC;
 
